@@ -1,0 +1,153 @@
+[07-Jun-2020 19:08:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/wwi28h700l7x/public_html/ci/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/wwi28h700l7x/public_html/ci/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/wwi28h700l7x/public_html/ci/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/wwi28h700l7x/public_html/ci/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home/wwi28h700l7x/public_html/ci/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home/wwi28h700l7x/public_html/ci/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home/wwi28h700l7x/public_html/ci/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home/wwi28h700l7x/public_html/ci/application/controllers/Panel.php(11): CI_Controller->__construct()
+#7 /home/wwi28h700l7x/public_html/ci/system/core/CodeIgniter.php(308): Panel->__construct()
+#8 /home/wwi28h700l7x/public_html/ci/index.php(203): require_once('/home/wwi28h700...')
+#9 {main}
+  thrown in /home/wwi28h700l7x/public_html/ci/system/database/drivers/mysql/mysql_driver.php on line 91
+[07-Jun-2020 19:08:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/wwi28h700l7x/public_html/ci/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/wwi28h700l7x/public_html/ci/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/wwi28h700l7x/public_html/ci/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/wwi28h700l7x/public_html/ci/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home/wwi28h700l7x/public_html/ci/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home/wwi28h700l7x/public_html/ci/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home/wwi28h700l7x/public_html/ci/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home/wwi28h700l7x/public_html/ci/application/controllers/Panel.php(11): CI_Controller->__construct()
+#7 /home/wwi28h700l7x/public_html/ci/system/core/CodeIgniter.php(308): Panel->__construct()
+#8 /home/wwi28h700l7x/public_html/ci/index.php(203): require_once('/home/wwi28h700...')
+#9 {main}
+  thrown in /home/wwi28h700l7x/public_html/ci/system/database/drivers/mysql/mysql_driver.php on line 91
+[07-Jun-2020 19:08:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/wwi28h700l7x/public_html/ci/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/wwi28h700l7x/public_html/ci/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/wwi28h700l7x/public_html/ci/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/wwi28h700l7x/public_html/ci/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home/wwi28h700l7x/public_html/ci/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home/wwi28h700l7x/public_html/ci/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home/wwi28h700l7x/public_html/ci/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home/wwi28h700l7x/public_html/ci/application/controllers/Panel.php(11): CI_Controller->__construct()
+#7 /home/wwi28h700l7x/public_html/ci/system/core/CodeIgniter.php(308): Panel->__construct()
+#8 /home/wwi28h700l7x/public_html/ci/index.php(203): require_once('/home/wwi28h700...')
+#9 {main}
+  thrown in /home/wwi28h700l7x/public_html/ci/system/database/drivers/mysql/mysql_driver.php on line 91
+[07-Jun-2020 19:08:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/wwi28h700l7x/public_html/ci/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/wwi28h700l7x/public_html/ci/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/wwi28h700l7x/public_html/ci/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/wwi28h700l7x/public_html/ci/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home/wwi28h700l7x/public_html/ci/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home/wwi28h700l7x/public_html/ci/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home/wwi28h700l7x/public_html/ci/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home/wwi28h700l7x/public_html/ci/application/controllers/Panel.php(11): CI_Controller->__construct()
+#7 /home/wwi28h700l7x/public_html/ci/system/core/CodeIgniter.php(308): Panel->__construct()
+#8 /home/wwi28h700l7x/public_html/ci/index.php(203): require_once('/home/wwi28h700...')
+#9 {main}
+  thrown in /home/wwi28h700l7x/public_html/ci/system/database/drivers/mysql/mysql_driver.php on line 91
+[10-Jun-2020 21:28:25 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'It seems that the folder "/home/wwi28h700l7x/public_html/ci/../baners" for the field name
+					"banner" doesn't exists. Please create the folder and try again.' in /home/wwi28h700l7x/public_html/ci/application/libraries/Grocery_CRUD.php:4939
+Stack trace:
+#0 /home/wwi28h700l7x/public_html/ci/application/controllers/Panel.php(1432): Grocery_CRUD->set_field_upload('banner', '../baners')
+#1 [internal function]: Panel->banners_header()
+#2 /home/wwi28h700l7x/public_html/ci/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/wwi28h700l7x/public_html/ci/index.php(203): require_once('/home/wwi28h700...')
+#4 {main}
+  thrown in /home/wwi28h700l7x/public_html/ci/application/libraries/Grocery_CRUD.php on line 4939
+[11-Jun-2020 04:29:08 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'It seems that the folder "/home/wwi28h700l7x/public_html/ci/../baners" for the field name
+					"banner" doesn't exists. Please create the folder and try again.' in /home/wwi28h700l7x/public_html/ci/application/libraries/Grocery_CRUD.php:4939
+Stack trace:
+#0 /home/wwi28h700l7x/public_html/ci/application/controllers/Panel.php(1432): Grocery_CRUD->set_field_upload('banner', '../baners')
+#1 [internal function]: Panel->banners_header()
+#2 /home/wwi28h700l7x/public_html/ci/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/wwi28h700l7x/public_html/ci/index.php(203): require_once('/home/wwi28h700...')
+#4 {main}
+  thrown in /home/wwi28h700l7x/public_html/ci/application/libraries/Grocery_CRUD.php on line 4939
+[11-Jun-2020 16:55:41 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'It seems that the folder "/home/wwi28h700l7x/public_html/ci/../baners" for the field name
+					"banner" doesn't exists. Please create the folder and try again.' in /home/wwi28h700l7x/public_html/ci/application/libraries/Grocery_CRUD.php:4939
+Stack trace:
+#0 /home/wwi28h700l7x/public_html/ci/application/controllers/Panel.php(1432): Grocery_CRUD->set_field_upload('banner', '../baners')
+#1 [internal function]: Panel->banners_header()
+#2 /home/wwi28h700l7x/public_html/ci/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/wwi28h700l7x/public_html/ci/index.php(203): require_once('/home/wwi28h700...')
+#4 {main}
+  thrown in /home/wwi28h700l7x/public_html/ci/application/libraries/Grocery_CRUD.php on line 4939
+[11-Jun-2020 19:03:35 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'It seems that the folder "/home/wwi28h700l7x/public_html/ci/../baners" for the field name
+					"banner" doesn't exists. Please create the folder and try again.' in /home/wwi28h700l7x/public_html/ci/application/libraries/Grocery_CRUD.php:4939
+Stack trace:
+#0 /home/wwi28h700l7x/public_html/ci/application/controllers/Panel.php(1432): Grocery_CRUD->set_field_upload('banner', '../baners')
+#1 [internal function]: Panel->banners_header()
+#2 /home/wwi28h700l7x/public_html/ci/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/wwi28h700l7x/public_html/ci/index.php(203): require_once('/home/wwi28h700...')
+#4 {main}
+  thrown in /home/wwi28h700l7x/public_html/ci/application/libraries/Grocery_CRUD.php on line 4939
+[12-Jun-2020 15:45:14 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'It seems that the folder "/home/wwi28h700l7x/public_html/ci/../baners" for the field name
+					"banner" doesn't exists. Please create the folder and try again.' in /home/wwi28h700l7x/public_html/ci/application/libraries/Grocery_CRUD.php:4939
+Stack trace:
+#0 /home/wwi28h700l7x/public_html/ci/application/controllers/Panel.php(1432): Grocery_CRUD->set_field_upload('banner', '../baners')
+#1 [internal function]: Panel->banners_header()
+#2 /home/wwi28h700l7x/public_html/ci/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/wwi28h700l7x/public_html/ci/index.php(203): require_once('/home/wwi28h700...')
+#4 {main}
+  thrown in /home/wwi28h700l7x/public_html/ci/application/libraries/Grocery_CRUD.php on line 4939
+[13-Jun-2020 23:23:05 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'It seems that the folder "/home/wwi28h700l7x/public_html/ci/../baners" for the field name
+					"banner" doesn't exists. Please create the folder and try again.' in /home/wwi28h700l7x/public_html/ci/application/libraries/Grocery_CRUD.php:4939
+Stack trace:
+#0 /home/wwi28h700l7x/public_html/ci/application/controllers/Panel.php(1432): Grocery_CRUD->set_field_upload('banner', '../baners')
+#1 [internal function]: Panel->banners_header()
+#2 /home/wwi28h700l7x/public_html/ci/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/wwi28h700l7x/public_html/ci/index.php(203): require_once('/home/wwi28h700...')
+#4 {main}
+  thrown in /home/wwi28h700l7x/public_html/ci/application/libraries/Grocery_CRUD.php on line 4939
+[23-Jun-2020 01:29:05 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 21728480 bytes) in /home/wwi28h700l7x/public_html/ci/application/libraries/image_moo.php on line 313
+[23-Jun-2020 01:29:19 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 21728480 bytes) in /home/wwi28h700l7x/public_html/ci/application/libraries/image_moo.php on line 313
+[07-Jul-2020 21:50:10 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'It seems that the folder "/home/wwi28h700l7x/public_html/ci/../mayoreo/assets/img" for the field name
+					"banner" doesn't exists. Please create the folder and try again.' in /home/wwi28h700l7x/public_html/ci/application/libraries/Grocery_CRUD.php:4939
+Stack trace:
+#0 /home/wwi28h700l7x/public_html/ci/application/controllers/Panel.php(1432): Grocery_CRUD->set_field_upload('banner', '../mayoreo/asse...')
+#1 [internal function]: Panel->banners_header()
+#2 /home/wwi28h700l7x/public_html/ci/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/wwi28h700l7x/public_html/ci/index.php(203): require_once('/home/wwi28h700...')
+#4 {main}
+  thrown in /home/wwi28h700l7x/public_html/ci/application/libraries/Grocery_CRUD.php on line 4939
+[07-Jul-2020 21:50:15 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'It seems that the folder "/home/wwi28h700l7x/public_html/ci/../mayoreo/assets/img" for the field name
+					"banner" doesn't exists. Please create the folder and try again.' in /home/wwi28h700l7x/public_html/ci/application/libraries/Grocery_CRUD.php:4939
+Stack trace:
+#0 /home/wwi28h700l7x/public_html/ci/application/controllers/Panel.php(1432): Grocery_CRUD->set_field_upload('banner', '../mayoreo/asse...')
+#1 [internal function]: Panel->banners_header()
+#2 /home/wwi28h700l7x/public_html/ci/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/wwi28h700l7x/public_html/ci/index.php(203): require_once('/home/wwi28h700...')
+#4 {main}
+  thrown in /home/wwi28h700l7x/public_html/ci/application/libraries/Grocery_CRUD.php on line 4939
+[13-Jul-2020 20:08:49 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'It seems that the folder "/home/wwi28h700l7x/public_html/ci/../mayoreo/assets/img" for the field name
+					"banner" doesn't exists. Please create the folder and try again.' in /home/wwi28h700l7x/public_html/ci/application/libraries/Grocery_CRUD.php:4939
+Stack trace:
+#0 /home/wwi28h700l7x/public_html/ci/application/controllers/Panel.php(1432): Grocery_CRUD->set_field_upload('banner', '../mayoreo/asse...')
+#1 [internal function]: Panel->banners_header()
+#2 /home/wwi28h700l7x/public_html/ci/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/wwi28h700l7x/public_html/ci/index.php(203): require_once('/home/wwi28h700...')
+#4 {main}
+  thrown in /home/wwi28h700l7x/public_html/ci/application/libraries/Grocery_CRUD.php on line 4939
+[14-Jul-2020 23:38:09 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'It seems that the folder "/home/wwi28h700l7x/public_html/ci/../mayoreo/assets/img" for the field name
+					"banner" doesn't exists. Please create the folder and try again.' in /home/wwi28h700l7x/public_html/ci/application/libraries/Grocery_CRUD.php:4939
+Stack trace:
+#0 /home/wwi28h700l7x/public_html/ci/application/controllers/Panel.php(1432): Grocery_CRUD->set_field_upload('banner', '../mayoreo/asse...')
+#1 [internal function]: Panel->banners_header()
+#2 /home/wwi28h700l7x/public_html/ci/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/wwi28h700l7x/public_html/ci/index.php(203): require_once('/home/wwi28h700...')
+#4 {main}
+  thrown in /home/wwi28h700l7x/public_html/ci/application/libraries/Grocery_CRUD.php on line 4939
+[14-Jul-2020 23:50:10 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'It seems that the folder "/home/wwi28h700l7x/public_html/ci/../mayoreo/assets/img" for the field name
+					"banner" doesn't exists. Please create the folder and try again.' in /home/wwi28h700l7x/public_html/ci/application/libraries/Grocery_CRUD.php:4939
+Stack trace:
+#0 /home/wwi28h700l7x/public_html/ci/application/controllers/Panel.php(1432): Grocery_CRUD->set_field_upload('banner', '../mayoreo/asse...')
+#1 [internal function]: Panel->banners_header()
+#2 /home/wwi28h700l7x/public_html/ci/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/wwi28h700l7x/public_html/ci/index.php(203): require_once('/home/wwi28h700...')
+#4 {main}
+  thrown in /home/wwi28h700l7x/public_html/ci/application/libraries/Grocery_CRUD.php on line 4939
